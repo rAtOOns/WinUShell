@@ -8,7 +8,7 @@ Bright side
 - compiles with pyinstaller, so no python installation needed
 - tries 10 times to connect back, quits afterwards
 - windows binary provided
-- has now a great banner ;)
+- has now a great banner
 
 Preperation
 -----------
