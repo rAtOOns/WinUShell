@@ -84,6 +84,6 @@ Author
 Marco Lux <ping@curesec.com>
 
 Thanks
-------
+-------
 To Darren Martyn pointing me to his excellent PTY Class!
 (https://github.com/infodox/python-pty-shells)
